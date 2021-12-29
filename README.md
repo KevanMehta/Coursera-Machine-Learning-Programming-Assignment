@@ -1,1 +1,1 @@
-# Coursera-Machine-Learning-Programming-Assignment
+# Coursera Machine Learning Programming Assignment
